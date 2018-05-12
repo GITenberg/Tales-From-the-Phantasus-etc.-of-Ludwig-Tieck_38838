@@ -1,0 +1,32 @@
+_repo: Tales-From-the-Phantasus-etc.-of-Ludwig-Tieck_38838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, L. (Ludwig)
+    - Tieck, Johann Ludwig
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+tableOfContents: The reconciliation -- The friends -- The elves -- The White Egbert
+  -- The faithful Eckart -- The Tannenhäuser -- The Runenberg -- The mysterious cup
+  -- The love-charm -- The brothers.
+title: Tales From the "Phantasus," etc. of Ludwig Tieck
+url: http://www.gutenberg.org/ebooks/38838
